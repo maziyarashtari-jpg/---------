@@ -1,0 +1,6 @@
+{
+  "name": "O-Ring Calculator (AS568)",
+  "description": "یافتن ابعاد اورینگ بر اساس دش نامبر و محاسبه نزدیک‌ترین سایز استاندارد AS568 (اریکس) با مشخصات فنی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
